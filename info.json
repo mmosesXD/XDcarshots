@@ -1,4 +1,5 @@
-[
+{"offers" : [
+  
     {
         "yearmake": "2021 Mercedes-Benz",
         "model": "A 220 ",
@@ -89,4 +90,5 @@
         "tier3disclosuresmall": "Order Yours Today. Offer Expires: 02/01/21. 36 monthly payments of $699. Cash due at signing includes $2,629 capitalized cost reduction, $795 acquisition fee, and first month's lease payment. No security deposit required. At lease end, lessee pays for any amounts due under the lease, any official fees and taxes related to the scheduled termination, excess wear and use plus $.20/mile over 30,000. Plus government fees and taxes, any finance charges, $85 dealer document preparation charge, and any emission testing charge.",
         "imageurl": "https://raw.githubusercontent.com/mmosesXD/XDcarshots/main/2021_Mercedes-Benz_GLE.jpg"
     }
-]
+
+]}
